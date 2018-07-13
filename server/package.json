@@ -1,0 +1,12 @@
+{
+	"name": "python-sample-client",
+	"description": "VSCode part of a python language server",
+	"publisher": "foobar",
+	"engines": {
+		"node": "*"
+	},
+	"dependencies": {
+		"vscode-languageserver": "^4.1.3"
+	},
+	"scripts": {}
+}
